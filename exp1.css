@@ -8,3 +8,13 @@
     border-style: dashed;
     border-spacing: 10px;
 }
+
+.box {
+    background-color: darkgrey;
+    padding: 50px;
+    width: 300px;
+    border: 15px solid red;
+    margin: 15px;
+    margin-top: 100px;
+    margin-left: 400px;
+}
